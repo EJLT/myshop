@@ -1,8 +1,5 @@
 package com.sanvalero.myshop;
 
-import ...
-
-
 
 public class MyShopApplication {
 
