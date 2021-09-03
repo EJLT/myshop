@@ -1,3 +1,5 @@
-**_My shop_**
+**_Animal Shop_**
 
-ejemplo de tienda onnline hecha por Spring boot
+Una aplicación para comprar buscar animales que puedas comprargit 
+****
+
